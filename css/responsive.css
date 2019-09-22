@@ -66,4 +66,7 @@
   display: block;
   }
   
+  #logo h2 {
+    display: none;
+  }
 }
